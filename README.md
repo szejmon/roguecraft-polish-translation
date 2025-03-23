@@ -3,7 +3,7 @@
 <img src="pack.png" alt="pack icon" width="300"/>
 
 # Polish translation for Roguecraft
-## Polskie tłumaczenie Rogeucraft
+## Polskie tłumaczenie Roguecraft
 
 </div>
 
